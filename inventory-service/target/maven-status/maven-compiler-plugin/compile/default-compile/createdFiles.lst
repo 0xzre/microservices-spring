@@ -1,0 +1,5 @@
+com\sobotarup\inventoryservice\service\InventoryService.class
+com\sobotarup\inventoryservice\InventoryServiceApplication.class
+com\sobotarup\inventoryservice\model\Inventory.class
+com\sobotarup\inventoryservice\repository\InventoryRepository.class
+com\sobotarup\inventoryservice\controller\InventoryController.class

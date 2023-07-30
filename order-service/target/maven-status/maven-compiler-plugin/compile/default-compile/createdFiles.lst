@@ -1,0 +1,8 @@
+com\sobotarup\orderservice\controller\OrderController.class
+com\sobotarup\orderservice\dto\OrderLineItemsDto.class
+com\sobotarup\orderservice\model\OrderLineItems.class
+com\sobotarup\orderservice\repository\OrderRepository.class
+com\sobotarup\orderservice\OrderServiceApplication.class
+com\sobotarup\orderservice\model\Order.class
+com\sobotarup\orderservice\service\OrderService.class
+com\sobotarup\orderservice\dto\OrderRequest.class

@@ -1,0 +1,10 @@
+com\sobotarup\productservice\controller\ProductController.class
+com\sobotarup\productservice\dto\ProductResponse.class
+com\sobotarup\productservice\model\Product$ProductBuilder.class
+com\sobotarup\productservice\service\ProductService.class
+com\sobotarup\productservice\dto\ProductRequest.class
+com\sobotarup\productservice\repository\ProductRepository.class
+com\sobotarup\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\sobotarup\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\sobotarup\productservice\model\Product.class
+com\sobotarup\productservice\ProductServiceApplication.class
