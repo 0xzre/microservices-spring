@@ -38,7 +38,7 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
-
+                  <!-- spring dependency -->
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-dependencies</artifactId>
